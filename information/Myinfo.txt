@@ -1,0 +1,5 @@
+Name and FamilyName: Mani Eyvazi
+group : NPIbd-03-24
+
+Computer's Architecture
+labratory work no.2
