@@ -1,33 +1,29 @@
-// It's just a testing file without debugging
-
 #include <iostream>
 using namespace std;
 
 int main(){
-	int firstNum;
-	int secondNum;
-	int result;
-	char function;
+	int a;
+	int b;
+	int r;
+	char f;
 
-	cin >> firstNum;
-	cin >> secondNum;
+	cin >> a;
+	cin >> b;
+	cin >> f;
 
-	if (function=='+'){
-	result=firstNum+secondNum;
+	if (f=='+'){
+	r=a+b;
 	}
 
-	if (function=='-'){
-        result=firstNum-secondNum;
-	}
+	if (f=='*'){
+        r=a*b;
+        }
 
-	if (function=='*'){
-        result=firstNum*secondNum;
-	}
+	if (f=='-'){
+        r=a-b;
+        }
 
-	if (function=='/'){
-        result=firstNum/secondNum;
-	}
-
-	cout << result;
-
+	if (f=='/'){
+        r=a/b;
+        }
 }
