@@ -34,7 +34,7 @@ ___Bold and Italic___
 
 For example this is a code for 'C++' :
 
-'''cpp
+'''
 #include <iostream>
 using namespace std;
 
