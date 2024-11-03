@@ -79,7 +79,9 @@ ___
 # Emojies
 
 The emojy of joy :joy:
+
 The emojy of celebration :tada:
+
 etc...
 
 
@@ -101,7 +103,7 @@ etc...
 <details>
  <summary> Click to reveal</summary>
 
- revealed text :sweet_smile:
+ revealed text :sweat_smile:
 </details>
 
 
