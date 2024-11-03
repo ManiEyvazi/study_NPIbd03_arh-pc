@@ -51,7 +51,72 @@ ___Bold and Italic___
 [Mark Downs](#HeadLine)
 
 
+---
+
+
+# Table
+
+| Student | Lesson   | numbers |
+| :---    | :---:    |  ---:   |
+| Mani    | Markdown | .1      |
+| Kiril   | Markdown | .2      |
+| ---     | ---      | ---     |
+
+
 ___
+
+
+# TaskList
+
+- [ ] Task no.1
+- [ ] Task no.2
+- [x] Task no.3
+
+
+---
+
+
+# Emojies
+
+The emojy of joy :joy:
+The emojy of celebration :tada:
+etc...
+
+
+---
+
+
+# Comments
+
+###### here is a hidden comment
+
+[Some of the features didnt work properly. ]: #
+
+
+---
+
+
+# Togles(HTML)
+
+<details>
+ <summary> Click to reveal</summary>
+
+ revealed text :sweet_smile:
+</details>
+
+
+---
+
+
+# Callouts(mixed features)
+
+> :bulb: **Tip** : Don't forget to be the best!
+
+
+---
+
+---
+
 
 [Refrence](Https://youtube.com/codestackr
 "YouTube Channel")
