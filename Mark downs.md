@@ -50,7 +50,7 @@ ___Bold and Italic___
 
 [Mark Downs](#HeadLine)
 
-[cs] (Https://youtube.com/codestackr)
+[cs]: Https://youtube.com/codestackr
 
 
 
@@ -58,4 +58,5 @@ ___Bold and Italic___
 
 ___
 
-[Refrences](cs)
+[Refrences](cs
+"youtube channel")
