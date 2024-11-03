@@ -1,17 +1,15 @@
-# Hello world
+# Head Line
 
-## I'm testing markdown feature
+---
 
-### these are just 
+*Italic texts here* or _more italic texts here_
 
-#### with four hashtags
+**Bold texts here** or __more bold texts here__
 
-##### with 5
+*** Bold and Italic texts here ***
 
-###### and finally the last one with maximum of 6 hashtags
+___Bold and Italic again___
 
-*Texts for test*
-
-**Mark down language**
+** Mix*and*Match **
 
 finally without anything
