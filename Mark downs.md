@@ -50,13 +50,8 @@ ___Bold and Italic___
 
 [Mark Downs](#HeadLine)
 
-[cs]: Https://youtube.com/codestackr
-
-
-
-
 
 ___
 
-[Refrences](cs
-"youtube channel")
+[Refrence](Https://youtube.com/codestackr
+"YouTube Channel")
