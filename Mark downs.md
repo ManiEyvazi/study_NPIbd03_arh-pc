@@ -1,4 +1,4 @@
-# Head Line
+# HeadLine
 ###### ManiEyvazi
 
 
@@ -30,32 +30,6 @@ ___Bold and Italic___
 ---
 
 
-# Code structure
-
-For example this is a code for 'C++' :
-
-'''
-#include <iostream>
-using namespace std;
-
-int main(){
-int a;
-int b;
-int r;
-
-cin >> a;
-cin >> b;
-
-r=a+b;
-
-cout << r;
-}
-'''
-
-
----
-
-
 # Block quotes
 
 > This is an example of 
@@ -74,7 +48,7 @@ cout << r;
 [Github](https://github.com/ManiEyvazi/study_NPIbd03_arh-pc 
 "Лабраторная Работа")
 
-[Mark Downs](#Head Line)
+[Mark Downs](#HeadLine)
 
 [cs]: Https://youtube.com/codestackr
 
